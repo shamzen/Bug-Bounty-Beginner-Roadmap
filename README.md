@@ -86,6 +86,7 @@ Hi! I'm **Ansh Bhawnani**. I am currently working as a Security Engineer and als
 	 - Infosec Writeups: https://infosecwriteups.com/?gi=3149891cc73d
 	 - Hackerone Hacktivity: https://hackerone.com/hacktivity
 	 - Google VRP Writeups: https://github.com/xdavidhu/awesome-google-vrp-writeups
+         - Linkedin: https://www.linkedin.com/pulse/how-stay-ahead-99-bug-bounty-hunters-vijay-gupta--9kooc/
  - **Blogs and Articles**
 	 - Hacking Articles: https://www.hackingarticles.in/
 	 - Vickie Li Blogs: https://vickieli.dev/
